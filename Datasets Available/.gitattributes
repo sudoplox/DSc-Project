@@ -1,0 +1,10 @@
+fifa-19-fifa-ultimate-team filter=lfs diff=lfs merge=lfs -text
+gtd filter=lfs diff=lfs merge=lfs -text
+Links.txt filter=lfs diff=lfs merge=lfs -text
+missing-migrants-project filter=lfs diff=lfs merge=lfs -text
+creditcardfraud filter=lfs diff=lfs merge=lfs -text
+emoji-data-descriptions-codepoints filter=lfs diff=lfs merge=lfs -text
+suicide-rates-overview-1985-to-2016 filter=lfs diff=lfs merge=lfs -text
+world-development-indicators filter=lfs diff=lfs merge=lfs -text
+adm-project-road-accidents-in-uk filter=lfs diff=lfs merge=lfs -text
+iris-species filter=lfs diff=lfs merge=lfs -text
